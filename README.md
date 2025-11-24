@@ -22,8 +22,9 @@ Responsive design with TailwindCSS
 
 Fully containerized using Docker
 
-📁 Project Structure
-/
+# Project Structure
+
+```txt
 ├── src/
 │ ├── components/
 │ │ ├── MosaicLayout.tsx
@@ -32,7 +33,7 @@ Fully containerized using Docker
 │ ├── types/
 │ │ └── type.ts
 │ ├── main.tsx
-│  
+│
 │
 ├── public/
 │ └── fake_api/
@@ -43,6 +44,7 @@ Fully containerized using Docker
 ├── docker-compose.yml
 ├── README.md
 └── package.json
+```
 
 # Installation & Running Locally
 
