@@ -49,13 +49,17 @@ Fully containerized using Docker
 # Installation & Running Locally
 
 1. Clone the repository
-   git clone https://github.com/Ozirska/company-dashboard.git
-   cd company-dashboard
 
-2. Install dependencies
+   ```bash
+   git clone https://github.com/Ozirska/company-dashboard.git
+   ```
+
+2. cd company-dashboard
+
+3. Install dependencies
    npm install
 
-3. Run development server
+4. Run development server
    npm run dev
 
 The project will be available at:
